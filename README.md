@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Gayani Manesha!</h1>
 
 <p align="center">
-🚀 <b>Information Technology Undergraduate | Web Developer | Mobile App Developer | UI/UX Designer</b> <br>
+🚀 <b>IT Undergraduate | Web Developer | Mobile App Developer | UI/UX Designer</b> <br>
 💻 <i>Passionate about turning ideas into real-world projects through code & design.</i>
 </p>
 
@@ -20,47 +20,37 @@
 ## 🚀 Tech Stack & Tools
 
 ### 💻 **Frontend Development**
-<p align="left">
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/> 
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> 
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>
-</p>
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 ### 🔗 **Backend & Database**
-<p align="left">
-<img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
-</p>
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ### 📱 **Mobile App Development**
-<p align="left">
-<img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-<img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/48/external-xml-coding-and-development-flat-flat-juicy-fish.png" alt="XML"/>
-</p>
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)  
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
+- ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)  
 
 ### 🎨 **UI/UX Design**
-<p align="left">
-<img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
-<img src="https://img.icons8.com/color/48/canva.png" alt="Canva"/>
-</p>
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
 
 ### 🛠️ **Tools & Platforms**
-<p align="left">
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-<img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-<img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
-</p>
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayaniManesha&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=GayaniManesha&show_icons=true&theme=tokyonight&border_radius=10">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GayaniManesha&theme=tokyonight&border_radius=10">
@@ -73,22 +63,4 @@
 
 ## 🌍 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/your-link/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://your-portfolio-link.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
-</a>
-<a href="mailto:your-email@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
-</a>
-</p>
-
----
-
-## ✨ Fun Fact
-> “A great design is invisible until it's needed... but unforgettable once experienced.”
-
----
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/y)
