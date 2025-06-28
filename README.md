@@ -12,7 +12,7 @@
 - 🎓 I'm an IT undergraduate at **SLIIT**
 - 💻 I love building websites, mobile apps, and solving real-world problems
 - 🎨 Passionate about **UI/UX design**
-- 🌱 Currently learning **MERN Stack**, **Advanced Android**, and **Cloud Deployment**
+- 🌱 Currently learning **React**
 - 🚀 Always excited to work on meaningful projects and collaborate
 
 ---
