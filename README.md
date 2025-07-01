@@ -1,5 +1,7 @@
-<!-- 🌊 Animated Header with Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=70&lines=Hey+There!+I'm+Gayani+Manesha+👩‍💻;IT+Undergraduate+%7C+Web+%26+Mobile+Developer+%7C+UI%2FUX+Designer" />
+<!-- 🌊 Animated Header with No Crop Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1600&height=90&lines=Hey+There!+I'm+Gayani+Manesha+👩‍💻;IT+Undergraduate+%7C+Web+%26+Mobile+Developer+%7C+UI%2FUX+Designer" alt="Typing Header" />
+</p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
