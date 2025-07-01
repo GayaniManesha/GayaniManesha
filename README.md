@@ -1,15 +1,9 @@
-<!-- 🌊 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- ✨ Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&height=100&lines=🚀+IT+Undergraduate;💻+Web+%26+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+GitHub+Profile!" 
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&height=70&lines=🚀+IT+Undergraduate;💻+Web+%26+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
-
----
-
-## 🌟 <marquee behavior="scroll" direction="left" scrollamount="8">✨ Passionate about turning ideas into real-world projects through code & design ✨</marquee>
 
 ---
 
@@ -25,26 +19,26 @@
 
 ## 🚀 Tech Stack & Tools
 
-### 🌐 **Frontend**
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-### 🔗 **Backend & Database**
+### 🔗 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### 📱 **Mobile App**
+### 📱 Mobile App Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 
-### 🎨 **Design**
+### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-### 🛠️ **Tools**
+### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -52,16 +46,16 @@
 
 ---
 
-## ✨ Github Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayaniManesha&show_icons=true&theme=radical&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=GayaniManesha&show_icons=true&theme=radical&border_radius=10" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GayaniManesha&theme=radical&border_radius=10">
+  <img src="https://streak-stats.demolab.com?user=GayaniManesha&theme=radical&border_radius=10" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayaniManesha&layout=compact&theme=radical&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayaniManesha&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 ---
@@ -69,7 +63,7 @@
 ## 🔮 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -90,5 +84,5 @@
 
 ---
 
-<!-- 🌊 Animated Footer -->
+<!-- ✨ Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3D53FF,D100D1,F70000&height=120&section=footer"/>
