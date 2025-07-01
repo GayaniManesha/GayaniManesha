@@ -1,6 +1,9 @@
-<!-- 🌊 Animated Header with No Crop Typing Text -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1600&height=90&lines=Hey+There!+I'm+Gayani+Manesha+👩‍💻;IT+Undergraduate+%7C+Web+%26+Mobile+Developer+%7C+UI%2FUX+Designer" alt="Typing Header" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=1200&height=70&lines=Hey+There!+I'm+Gayani+Manesha+👩‍💻;IT+Undergraduate+%7C+Web+%26+Mobile+Developer+%7C+UI%2FUX+Designer" 
+    alt="Typing SVG Header" 
+  />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
@@ -85,4 +88,4 @@
 ---
 
 <!-- 🌊 Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3D53FF,D100D1,F70000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D53FF,D100D1,F70000&height=120&section=footer" />
