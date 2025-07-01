@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=🚀+IT+Undergraduate;💻+Web+%7C+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+Profile!" alt="Typing SVG"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&height=100&lines=🚀+IT+Undergraduate;💻+Web+%26+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+GitHub+Profile!" 
+    alt="Typing SVG" />
 </p>
 
 ---
