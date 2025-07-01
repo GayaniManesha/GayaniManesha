@@ -1,9 +1,15 @@
-<!-- ✨ Animated Header -->
+<!-- 🌊 Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&height=70&lines=🚀+IT+Undergraduate;💻+Web+%26+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <b>🚀 IT Undergraduate | 💻 Web & Mobile Developer | 🎨 UI/UX Designer</b>
 </p>
+
+---
+
+## 🌟 <marquee behavior="scroll" direction="left" scrollamount="7">✨ Passionate about turning ideas into real-world projects through code & design ✨</marquee>
 
 ---
 
@@ -84,5 +90,5 @@
 
 ---
 
-<!-- ✨ Animated Footer -->
+<!-- 🌊 Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3D53FF,D100D1,F70000&height=120&section=footer"/>
