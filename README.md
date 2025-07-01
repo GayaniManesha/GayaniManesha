@@ -1,5 +1,5 @@
-<!-- 🌊 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 🌊 Animated Header with Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=70&lines=Hey+There!+I'm+Gayani+Manesha+👩‍💻;IT+Undergraduate+%7C+Web+%26+Mobile+Developer+%7C+UI%2FUX+Designer" />
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
@@ -62,14 +62,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayaniManesha&layout=compact&theme=radical&border_radius=10" />
-</p>
-
----
-
-## 🔮 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
