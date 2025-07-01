@@ -1,34 +1,29 @@
-<!-- Header with Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&section=header&text=Hey!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<!-- 🌊 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F70000,D100D1,3D53FF&height=200&section=header&text=Hey%20There!%20I'm%20Gayani%20Manesha%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=🚀+IT+Undergraduate;💻+Web+%7C+Mobile+Developer;🎨+UI%2FUX+Designer;🌟+Welcome+to+My+Profile!" alt="Typing SVG"/>
 </p>
 
-<h3 align="center">
-🚀 IT Undergraduate | Web Developer | Mobile App Developer | UI/UX Designer
-</h3>
+---
 
-<p align="center">
-💡 Turning ideas into real-world products through code & design.<br>
-🌟 Creating beautiful UI, smooth mobile apps, and scalable websites.
-</p>
+## 🌟 <marquee behavior="scroll" direction="left" scrollamount="8">✨ Passionate about turning ideas into real-world projects through code & design ✨</marquee>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 IT undergraduate at **SLIIT**
-- 💻 I enjoy building websites, apps & solving real-world problems
-- 🎨 Love **UI/UX designing** and clean interfaces
-- 🌱 Currently learning **React**, **Next.js**
-- 🚀 Always ready to collaborate on creative projects
+- 🎓 IT Undergraduate at **SLIIT**
+- 💻 Love building websites, apps & solving real-world problems
+- 🎨 Passionate about **UI/UX Design**
+- 🌱 Currently learning **React & Next.js**
+- 🚀 Open for exciting collaborations
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Tools
 
-### 🖥️ **Frontend**
+### 🌐 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,16 +34,15 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### 📱 **Mobile App Development**
+### 📱 **Mobile App**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
-### 🎨 **Design & UI/UX**
+### 🎨 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-### 🛠️ **Tools & Platforms**
+### 🛠️ **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -56,7 +50,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## ✨ Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GayaniManesha&show_icons=true&theme=radical&border_radius=10">
@@ -70,7 +64,7 @@
 
 ---
 
-## ✨ Fun Quote
+## 🔮 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
@@ -94,5 +88,5 @@
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC300,100:FF5733&height=120&section=footer"/>
+<!-- 🌊 Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D53FF,D100D1,F70000&height=120&section=footer"/>
