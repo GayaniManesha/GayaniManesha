@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hey+There!+I'm+Gayani+Manesha;IT+Undergraduate+%7C+Web+%26+Mobile+Developer;UI%2FUX+Designer+%7C+Creative+Mind;Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
 🚀 <b>IT Undergraduate | Web Developer | Mobile App Developer | UI/UX Designer</b> <br>
