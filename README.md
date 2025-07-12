@@ -72,7 +72,7 @@
   <a href="mailto:gayanimanesha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://lnkd.in/dzVYH2z9" target="_blank">
+  <a href="[https://lnkd.in/dzVYH2z9](https://my-portfolio-one-blue-58.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
