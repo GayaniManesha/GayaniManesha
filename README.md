@@ -12,7 +12,7 @@
 - 🎓 IT undergraduate at **SLIIT**
 - 💻 Passionate about building **Web & Mobile Applications**
 - 🎨 Love crafting seamless **UI/UX designs**
-- 🌱 Currently learning **React & Advanced Backend Development**
+- 🌱 Currently learning **React**
 - 🤝 Open to **collaborations, freelance projects, and learning new things**
 
 ---
