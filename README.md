@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About 
 
 - 🎓 IT undergraduate at **SLIIT**
 - 💻 Passionate about building **Web & Mobile Applications**
