@@ -63,7 +63,7 @@
 
 ---
 
-## 🌐 Connect with 
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gayani-jayasundara-4293b9361" target="_blank">
