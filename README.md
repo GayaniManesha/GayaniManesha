@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 IT undergraduate at **SLIIT**
+- 🎓 IT undergraduate at ****
 - 💻 Passionate about building **Web & Mobile Applications**
 - 🎨 Love crafting seamless **UI/UX designs**
 - 🌱 Currently learning **React**
